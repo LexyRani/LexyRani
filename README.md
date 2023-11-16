@@ -11,6 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LexyRani?tab=repositories](https://github.com/LexyRani?tab=repositories)
 
-- 💬 You can reach me on **https://www.linkedin.com/in/alix-ceraline-974897139/**
+- 💬 You can reach me on **https://www.linkedin.com/in/alix-ceraline**
 
 - 2 years ago I work as **a psychomotrician**
