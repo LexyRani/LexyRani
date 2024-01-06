@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ and improve my knowledge in C**
 
-- I recently worked on **Netpractice**
+- I recently worked on **Cub3D**
 
 - My next project will be **Inception**
 
