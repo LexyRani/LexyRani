@@ -13,4 +13,4 @@
 
 - 💬 You can reach me on **https://www.linkedin.com/in/alix-ceraline**
 
-- 2 years ago I work as **a psychomotrician**
+- 2 years ago I worked as **a psychomotrician**
