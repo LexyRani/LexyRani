@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alix</h1>
 <h3 align="center">Currently student at 42</h3>
 
-- 🔭 I’m currently working on **Ft-IRC**
+- 🔭 I’m currently working on **Inception**
 
-- 🌱 I’m currently learning **C++ and improve my knowledge in C**
+- 🌱 I’m currently learning **C++**
 
 - I recently worked on **Ft-IRC**
 
