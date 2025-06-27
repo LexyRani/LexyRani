@@ -1,4 +1,4 @@
-# 👋 Salut, je m’appelle Alix
+# 👋 Salut, je suis Alix
 
 Ancienne psychomotricienne, je me suis reconvertie avec passion dans le développement web.  
 Aujourd’hui étudiante à l’école 42, je suis à la recherche d’une **alternance en tant que développeuse full‑stack**.
