@@ -29,7 +29,7 @@ Mon approche est à la croisée de la logique et de la sensibilité humaine : j�
 
 ### 🎮 Transcendance  
 - **Technos** : TypeScript, Tailwind CSS, Node.js, Fastify, Babylon.js, SQLite  
-- Jeu multijoueur inspiré du Pong, avec authentification, interface 3D, classement, système de match-making et design responsived.
+- Jeu multijoueur inspiré du Pong, avec authentification, interface 3D, classement, système de match-making et design responsive.
 
 ---
 
