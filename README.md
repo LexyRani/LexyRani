@@ -1,52 +1,84 @@
-# 👋 Salut, je suis Alix
-
-Ancienne psychomotricienne, je me suis reconvertie avec passion dans le développement web.  
-Aujourd’hui étudiante à l’école 42, je suis à la recherche d’une **alternance en tant que développeuse full‑stack**.
-
-Mon approche est à la croisée de la logique et de la sensibilité humaine : j’adore concevoir des interfaces qui **ont du sens**, **sont agréables à utiliser** et **techniquement robustes**.
-
----
-
-## 🛠️ Compétences techniques
-
-<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Tailwind CSS" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
-<br /><br />
-
-🖌️ **UX/UI Design** : j’ai une affinité naturelle avec le design centré utilisateur, fruit de mon expérience passée en psychomotricité.
+<div align="center">
+  <h1>👋 Salut, je suis Alix</h1>
+  <h3>Fullstack Developer × Product Thinker × 42 Student</h3>
+  
+  <p>
+    <em>De la psychomotricité au code : je crée des interfaces qui ont du sens, techniquement robustes et humainement agréables.</em>
+  </p>
+  
+  <a href="https://www.linkedin.com/in/alix-ceraline/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ton-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
 ---
 
-## 🚀 Projets notables
+## 🎯 À Propos
 
-### 🎮 Transcendance  
-- **Technos** : TypeScript, Tailwind CSS, Node.js, Fastify, Babylon.js, SQLite  
-- Jeu multijoueur inspiré du Pong, avec authentification, interface 3D, classement, système de match-making et design responsive.
+🔄 **Reconversion** : Ancienne psychomotricienne, j'ai pivoté vers le développement pour allier logique technique et design centré utilisateur.
 
----
+🎓 **Formation** : Actuellement à l'École 42 Paris, je maîtrise le C/C++ bas niveau et le développement web moderne (TypeScript/React).
 
-## 🎯 Objectifs actuels
+💼 **Recherche** : **Alternance dès Mars 2026** (12-24 mois) en tant que **Frontend Engineer** ou **Fullstack Developer**.
 
-- 🔍 Rechercher une alternance en **développement full‑stack**
-- 🚀 Consolider mes bases **en frontend (React, Next.js, UI design)**  
-  et **en backend (API, Docker, bases de données, tests)**
-- ✨ Continuer à explorer le **design UX/UI** avec Figma, animations, accessibilité
+🎨 **Mon ADN** : Je ne code pas juste des features, je **conçois des expériences**. Mon background en psychomotricité m'a appris à penser UX avant de toucher au code.
 
 ---
 
-## 📫 Me contacter
+## 🛠 Tech Stack
 
-- 🔗 [Mon LinkedIn](https://www.linkedin.com/in/alix-ceraline/)  
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Babylon.js](https://img.shields.io/badge/Babylon.js-BBBBBB?style=for-the-badge&logo=babylondotjs&logoColor=white)
+
+### Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Low-Level & DevOps
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### Design & Product
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
-Merci d’avoir visité mon profil ✨  
-Toujours partante pour collaborer, apprendre et créer des interfaces qui font plaisir à utiliser 😊
+## 💡 Ce qui Me Distingue
+
+🎨 **Design-First Approach** : Je prototype sur Figma avant de coder pour aligner l'équipe et éviter les aller-retours.
+
+🧠 **Full-Range Developer** : À l'aise aussi bien en bas niveau (C, mémoire, algorithmes) qu'en web moderne (TypeScript, React, API).
+
+🤝 **Product Mindset** : Je ne me contente pas de développer, je challenge les specs pour créer de meilleures expériences utilisateur.
+
+🔄 **Reconversion Assumée** : Mon parcours atypique est ma force!
+
+---
+
+## 📫 Me Contacter
+
+💼 **Disponible dès Mars 2026** pour une alternance (12-24 mois)
+
+📍 **Localisation** : Paris / Île-de-France
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alix-ceraline/">
+    <img src="https://img.shields.io/badge/LinkedIn-Contactez--moi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <em>✨ Toujours partante pour collaborer, apprendre et créer des interfaces qui font plaisir à utiliser.</em>
+</div>
