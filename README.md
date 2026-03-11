@@ -18,7 +18,7 @@
 
 🎓 **Formation** : Actuellement à l'École 42 Paris, je maîtrise le C/C++ bas niveau et le développement web moderne (TypeScript/React).
 
-💼 **Recherche** : **Alternance dès Avril 2026** (12-24 mois) en tant que **Frontend Engineer** ou **Fullstack Developer**.
+💼 **Recherche** : **Alternance dès Avril 2026** (12-24 mois) en tant que  **Fullstack Developer**.
 
 🎨 **Mon ADN** : Je ne code pas juste des features, je **conçois des expériences**. Mon background en psychomotricité m'a appris à penser UX avant de toucher au code.
 
