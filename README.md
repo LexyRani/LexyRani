@@ -63,7 +63,7 @@
 
 ## 📫 Me Contacter
 
-💼 **Disponible dès Mars 2026** pour une alternance (12-24 mois)
+💼 **Disponible dès maintenant** pour une alternance (24 mois)
 
 📍 **Localisation** : Paris / Île-de-France
 
